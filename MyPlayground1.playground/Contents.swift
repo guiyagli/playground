@@ -4,5 +4,4 @@ import UIKit
 
 var str = "Hello, playground"
 
-AnyBidirectionalCollection
-
+print(str)
